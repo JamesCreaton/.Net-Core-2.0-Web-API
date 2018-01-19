@@ -1,0 +1,22 @@
+C:\Users\James Creaton\Documents\Visual Studio 2017\InterviewAPI\InterviewAPI\bin\Debug\netcoreapp2.0\InterviewAPI.deps.json
+C:\Users\James Creaton\Documents\Visual Studio 2017\InterviewAPI\InterviewAPI\bin\Debug\netcoreapp2.0\InterviewAPI.runtimeconfig.json
+C:\Users\James Creaton\Documents\Visual Studio 2017\InterviewAPI\InterviewAPI\bin\Debug\netcoreapp2.0\InterviewAPI.runtimeconfig.dev.json
+C:\Users\James Creaton\Documents\Visual Studio 2017\InterviewAPI\InterviewAPI\bin\Debug\netcoreapp2.0\InterviewAPI.dll
+C:\Users\James Creaton\Documents\Visual Studio 2017\InterviewAPI\InterviewAPI\bin\Debug\netcoreapp2.0\InterviewAPI.pdb
+C:\Users\James Creaton\Documents\Visual Studio 2017\InterviewAPI\InterviewAPI\obj\Debug\netcoreapp2.0\InterviewAPI.csprojResolveAssemblyReference.cache
+C:\Users\James Creaton\Documents\Visual Studio 2017\InterviewAPI\InterviewAPI\obj\Debug\netcoreapp2.0\InterviewAPI.csproj.CoreCompileInputs.cache
+C:\Users\James Creaton\Documents\Visual Studio 2017\InterviewAPI\InterviewAPI\obj\Debug\netcoreapp2.0\InterviewAPI.AssemblyInfoInputs.cache
+C:\Users\James Creaton\Documents\Visual Studio 2017\InterviewAPI\InterviewAPI\obj\Debug\netcoreapp2.0\InterviewAPI.AssemblyInfo.cs
+C:\Users\James Creaton\Documents\Visual Studio 2017\InterviewAPI\InterviewAPI\obj\Debug\netcoreapp2.0\InterviewAPI.dll
+C:\Users\James Creaton\Documents\Visual Studio 2017\InterviewAPI\InterviewAPI\obj\Debug\netcoreapp2.0\InterviewAPI.pdb
+C:\Users\James Creaton\Desktop\InterviewAPI\InterviewAPI\bin\Debug\netcoreapp2.0\InterviewAPI.deps.json
+C:\Users\James Creaton\Desktop\InterviewAPI\InterviewAPI\bin\Debug\netcoreapp2.0\InterviewAPI.runtimeconfig.json
+C:\Users\James Creaton\Desktop\InterviewAPI\InterviewAPI\bin\Debug\netcoreapp2.0\InterviewAPI.runtimeconfig.dev.json
+C:\Users\James Creaton\Desktop\InterviewAPI\InterviewAPI\bin\Debug\netcoreapp2.0\InterviewAPI.dll
+C:\Users\James Creaton\Desktop\InterviewAPI\InterviewAPI\bin\Debug\netcoreapp2.0\InterviewAPI.pdb
+C:\Users\James Creaton\Desktop\InterviewAPI\InterviewAPI\obj\Debug\netcoreapp2.0\InterviewAPI.csprojResolveAssemblyReference.cache
+C:\Users\James Creaton\Desktop\InterviewAPI\InterviewAPI\obj\Debug\netcoreapp2.0\InterviewAPI.csproj.CoreCompileInputs.cache
+C:\Users\James Creaton\Desktop\InterviewAPI\InterviewAPI\obj\Debug\netcoreapp2.0\InterviewAPI.AssemblyInfoInputs.cache
+C:\Users\James Creaton\Desktop\InterviewAPI\InterviewAPI\obj\Debug\netcoreapp2.0\InterviewAPI.AssemblyInfo.cs
+C:\Users\James Creaton\Desktop\InterviewAPI\InterviewAPI\obj\Debug\netcoreapp2.0\InterviewAPI.dll
+C:\Users\James Creaton\Desktop\InterviewAPI\InterviewAPI\obj\Debug\netcoreapp2.0\InterviewAPI.pdb

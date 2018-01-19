@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewBag.Title = "Please Login";
+}
+
+<h2>Login</h2>
+
+<form asp-controller="Auth" asp-action="Login" method="post">
+    <label for="username">Username</label>'
+    <input id="username" name="username" type="text"/>
+    <label for="password">Password</label>
+    <input id="password" name="password" type="password"/>
+    <button type="submit">Log me in</button>>
+</form>
+
